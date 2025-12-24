@@ -228,7 +228,7 @@ body {
 .pickup {
   height: 600px;
   width: 100%;
-  background-image: url("/images/td211.jpg");
+  background-image: url("/xeghep/images/td211.jpg");
   background-size: cover;
   background-position: center;
   margin-top: 40px;
@@ -261,7 +261,7 @@ body {
 }
 
 .why-choose-us {
-  background: url("/images/bg-tamdao.jpg") center / cover no-repeat;
+  background: url("/xeghep/images/bg-tamdao.jpg") center / cover no-repeat;
   color: #fff;
 }
 
